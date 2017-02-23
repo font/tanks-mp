@@ -1,0 +1,18 @@
+{
+  "name": "tanks-mp",
+  "version": "0.0.1",
+  "description": "Tanks Multi-Player Node.js on Docker",
+  "author": "Ivan Font <ivan@ivanfont.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "license": "GPLv3",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
